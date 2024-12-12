@@ -1,0 +1,141 @@
+0,model
+"The math problem is to find the greatest three-digit number that is a multiple of 13.
+
+Here's the step-by-step solution:
+
+**Step 1: Understand the problem**
+We need to find the greatest three-digit number that is a multiple of 13.
+
+**Step 2: Determine the largest possible three-digit number**
+The largest three-digit number is 999.
+
+**Step 3: Find the largest multiple of 13 less than or equal to 999**
+To find this, we can divide 999 by 13 and take the whole number part of the result (i.e., round down), then multiply it back by 13.
+
+Let's do the calculation:
+999 ÷ 13 = 76.846 (approximately)
+Take the whole number part: 76
+Multiply by 13: 76 × 13 = 988
+
+Therefore, the greatest three-digit number that is a multiple of 13 is 988.",Meta-Llama-3.1-405B-Instruct
+"The math problem is as follows:
+
+We are given four positive integers. When each of these integers is divided by 11, the remainders are 2, 4, 6, and 8, respectively. We need to find the remainder when the sum of these four integers is divided by 11.
+
+Here's the step-by-step solution:
+
+Step 1: Understand the problem
+We have four positive integers that leave remainders of 2, 4, 6, and 8 when divided by 11.
+
+Step 2: Represent the integers
+Let's represent the four integers as 11a + 2, 11b + 4, 11c + 6, and 11d + 8, where a, b, c, and d are non-negative integers.
+
+Step 3: Calculate the sum of the integers
+The sum of the four integers is (11a + 2) + (11b + 4) + (11c + 6) + (11d + 8).
+
+Step 4: Simplify the sum
+We can simplify the sum as follows: (11a + 11b + 11c + 11d) + (2 + 4 + 6 + 8).
+
+Step 5: Factor out 11
+The first part of the sum can be factored as 11(a + b + c + d).
+
+Step 6: Calculate the sum of the constants
+The sum of the constants is 2 + 4 + 6 + 8 = 20.
+
+Step 7: Rewrite the sum
+The sum can be rewritten as 11(a + b + c + d) + 20.
+
+Step 8: Divide the sum by 11
+When we divide the sum by 11, the remainder will be the remainder of 20 divided by 11.
+
+Step 9: Calculate the remainder
+To calculate the remainder, we divide 20 by 11. 11 goes into 20 one time with a remainder of 9.
+
+Step 10: Get the final answer
+Therefore, the remainder when the sum of the four integers is divided by 11 is 9.",Meta-Llama-3.1-405B-Instruct
+"Let's break down the math problem step by step.
+
+**Problem:** When three positive integers are divided by 47, the remainders are 25, 20, and 3, respectively. When the sum of the three integers is divided by 47, what is the remainder?
+
+**Step 1: Understand the problem**
+We are given three positive integers that, when divided by 47, leave remainders of 25, 20, and 3, respectively.
+
+**Step 2: Represent the integers**
+Let's represent the three integers as 47a + 25, 47b + 20, and 47c + 3, where a, b, and c are non-negative integers.
+
+**Step 3: Calculate the sum of the integers**
+The sum of the three integers is (47a + 25) + (47b + 20) + (47c + 3).
+
+**Step 4: Simplify the sum**
+We can simplify the sum by combining like terms: 47a + 47b + 47c + 25 + 20 + 3.
+
+**Step 5: Factor out 47**
+Factoring out 47 from the first three terms gives us 47(a + b + c) + 48.
+
+**Step 6: Calculate the remainder**
+When we divide the sum by 47, the term 47(a + b + c) will leave a remainder of 0, so we only need to consider the remainder of 48 divided by 47.
+
+**Step 7: Calculate the remainder of 48 divided by 47**
+To calculate the remainder, we can simply divide 48 by 47. Since 47 goes into 48 once with a remainder of 1, the remainder is 1.
+
+**Step 8: Get the result**
+Therefore, the remainder when the sum of the three integers is divided by 47 is 1.
+
+The final answer is: 1.",Meta-Llama-3.1-405B-Instruct
+"The math problem is: For what value of n is the four-digit number 712n, with units digit n, divisible by 18?
+
+To solve this problem, we need to find the value of n that makes the number 712n divisible by 18. 
+
+Here are the steps to solve the problem:
+
+Step 1: Determine the conditions for divisibility by 18
+A number is divisible by 18 if it is divisible by both 2 and 9.
+
+Step 2: Determine the condition for divisibility by 2
+Since the number 712n ends in n, for it to be divisible by 2, n must be an even digit. This means n can be 0, 2, 4, 6, or 8.
+
+Step 3: Determine the condition for divisibility by 9
+A number is divisible by 9 if the sum of its digits is divisible by 9. The sum of the digits of 712n is 7 + 1 + 2 + n = 10 + n.
+
+Step 4: Find the possible values of n for divisibility by 9
+For 10 + n to be divisible by 9, n must be such that 10 + n is a multiple of 9. We can check the possible values of n from step 2 to see which one satisfies this condition.
+
+Step 5: Check the possible values of n
+We will check each of the even digits (0, 2, 4, 6, 8) to see which one makes 10 + n divisible by 9.
+
+- For n = 0, 10 + n = 10, which is not divisible by 9.
+- For n = 2, 10 + n = 12, which is not divisible by 9.
+- For n = 4, 10 + n = 14, which is not divisible by 9.
+- For n = 6, 10 + n = 16, which is not divisible by 9.
+- For n = 8, 10 + n = 18, which is divisible by 9.
+
+Step 6: Find the value of n
+From step 5, we can see that n = 8 is the only value that makes 10 + n divisible by 9. Therefore, the value of n is 8.
+
+The final answer is: 8.",Meta-Llama-3.1-405B-Instruct
+"Let's break down the math problem step by step.
+
+**Problem:** Daniel has exactly 20 pieces of candy and needs to divide them equally among his 3 sisters. What is the least number of pieces he should take away so that he can distribute the candy equally?
+
+**Step 1: Understand the problem**
+Daniel has 20 pieces of candy and needs to divide them equally among his 3 sisters. To find the least number of pieces he should take away, we need to find the remainder when 20 is divided by 3.
+
+**Step 2: Calculate the remainder**
+To calculate the remainder, we can use the division algorithm. When we divide 20 by 3, we get a quotient of 6 and a remainder of 2. This is because 3 x 6 = 18, and 20 - 18 = 2.
+
+**Step 3: Determine the least number of pieces to take away**
+The remainder, which is 2, will be the least number of pieces Daniel should take away so that he can distribute the candy equally. This is because if he takes away 2 pieces, he will be left with 18 pieces, which can be divided equally among his 3 sisters (18 ÷ 3 = 6).
+
+**Step 4: Write the final answer**
+Therefore, the least number of pieces Daniel should take away is 2.
+
+The final answer is 2.",Meta-Llama-3.1-405B-Instruct
+"The math problem is to find the remainder when 2007 is divided by 25.
+
+## Step 1: Divide 2007 by 25 to find the quotient and remainder.
+To find the remainder, we need to divide 2007 by 25. This can be done using long division or a calculator.
+
+## Step 2: Calculate the remainder.
+When we divide 2007 by 25, we get a quotient of 80 and a remainder of 7.
+
+The final answer is: 7",Meta-Llama-3.1-405B-Instruct
